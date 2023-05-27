@@ -1,0 +1,30 @@
+body {
+    font-family: sans-serif;
+    background-color: #7FFFD4;
+}
+
+main {
+    margin-top:100px;
+    background-color: 		#66CDAA;
+    height: 80vw;
+}
+
+.i {
+    position: absolute;
+    top: 0px;
+    font-size: 9.4vw;
+    margin: 0;
+    padding: 0;
+}
+
+.i2 {
+    float: left ;
+    width: 50px;
+   
+}
+
+.n {
+    position: absolute;
+    top: 770px;
+    left: 70px;
+}
