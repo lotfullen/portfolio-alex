@@ -1,0 +1,57 @@
+body {
+    font-family: sans-serif;
+    background-color: #7FFFD4;
+}
+
+main {
+    margin-top:100px;
+    background-color: #66CDAA;
+    height: 80vw;
+}
+
+.i {
+    position: absolute;
+    top: 0px;
+    font-size: 9.4vw;
+    margin: 0;
+    padding: 0;
+}
+
+
+.ll {
+    text-align: center;
+    padding-top: 8vw;
+   
+    font-size: 7.4vw;
+    height: 20vw;
+    background: linear-gradient(130.95deg, rgba(0, 10, 255, 0.2) 11.61%, rgba(255, 0, 0, 0.2) 89.71%), #C70606;
+    position: absolute;
+    top: 30vw;
+    left:20vw;
+
+}
+
+.a2 {
+    text-align: center;
+    padding-top: 8vw;
+   
+    font-size: 7.4vw;
+    height: 20vw;
+    background: linear-gradient(130.95deg, rgba(0, 10, 255, 0.2) 11.61%, rgba(255, 0, 0, 0.2) 89.71%), #C70606;
+    position: absolute;
+    top: 30vw;
+    left: 60vw;
+
+}
+
+.i2 {
+    float: left ;
+    width: 50px;
+   
+}
+
+.n {
+    position: absolute;
+    top: 810px;
+    left: 70px;
+}
